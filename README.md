@@ -4,15 +4,14 @@
 <p>
 **Se utilizaron herramientas como:**
 </p>
-- Django :fa-book:
-- Python  :fa-book:
-- Numpy  :fa-book:
-- Mediapipe  :fa-book:
-- Pyautogu  :fa-book:
-- OpenCV  :fa-book:
+- Django 
+- Python  
+- Numpy  
+- Mediapipe 
+- Pyautogu  
+- OpenCV  
 # Para su instalacion se necesitara:
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 ### 1. Descargamos el proyecto del repositorio de Git
 <p>
